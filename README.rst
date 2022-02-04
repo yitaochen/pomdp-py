@@ -18,3 +18,6 @@ If you find this library helpful to your work, please cite the `following paper 
       url = {https://icaps20subpages.icaps-conference.org/wp-content/uploads/2020/10/14-PlanRob_2020_paper_3.pdf},
       note = {Arxiv link: "\url{https://arxiv.org/pdf/2004.10099.pdf}"}
    }
+
+I-POMDP basic functionality
+
